@@ -1,0 +1,21 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# SolidWorks generated/cache files
+*.swo
+*.swp
+~$*
+
+# Aspen temporary/lock files
+*.lck
+*.tmp
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+
+# Local editor settings
+.vscode/
+.idea/
